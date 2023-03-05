@@ -1,7 +1,8 @@
 ---
 title: "RMarkTest"
-output: html_document
-date: "2023-03-03"
+author: "Alberto Rodríguez Ballesteros"
+date: "2023-05-03"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
